@@ -67,7 +67,8 @@ See [SECURITY.md](https://github.com/p-lychong/ChongPortfolio/blob/main/SECURITY
 
 ## 🖼️ Screenshots
 
-_Add a screenshot of your portfolio here!_
+![Uploading image.png…]()
+
 
 ---
 
